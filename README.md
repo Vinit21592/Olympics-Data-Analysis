@@ -26,4 +26,7 @@ on the summer olympics data which was held during these years. All the null and 
 <img src="Images/Top Statistics.PNG" height="200">
 
 * Participating Nations Over the Years
-<img src="Images/Cities.png" height="300">
+<img src="Images/Cities.png" height="400">
+
+* No. of Events over time(Every Sport)
+<img src="Images/No. of events.png" height="600">
