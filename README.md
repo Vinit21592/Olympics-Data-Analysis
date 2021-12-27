@@ -2,6 +2,7 @@
 
 
 
+![pngegg](https://user-images.githubusercontent.com/78821357/147470599-0f2e5c75-2bf5-4537-82e2-65be32acd43f.png)
 
 ### Dataset:
 The dataset is downloaded from kaggle. Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
