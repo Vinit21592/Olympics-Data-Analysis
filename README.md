@@ -24,9 +24,11 @@ on the summer olympics data which was held during these years. All the null and 
 ### Overall Analysis
 * Top Statistics
 <img src="Images/Top Statistics.PNG" height="200">
+This statistics shows no. of editions held, total no. of nations hosted the olympics, total no. of sports that have been played, no. of events conducted, no. of nations and athletes participated.
 
 * Participating Nations Over the Years
 <img src="Images/Cities.png" height="400">
+This graph helps to visualize the number nations participating over the years.
 
 * No. of Events over time(Every Sport)
 <img src="Images/No. of events.png" height="600">
@@ -37,3 +39,6 @@ on the summer olympics data which was held during these years. All the null and 
 
 * Men Vs Women Participation Over the Years
 <img src="Images/Men vs Women Participation.png" height="400">
+
+## Webapp Link:
+
