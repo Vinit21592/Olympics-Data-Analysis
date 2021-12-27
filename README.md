@@ -1,6 +1,6 @@
 # Olympics-Data-Analysis
 
-
+<img src="Logo.png" height="100">
 
 
 
