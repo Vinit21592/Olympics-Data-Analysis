@@ -33,4 +33,7 @@ on the summer olympics data which was held during these years. All the null and 
 
 ### Athlete-wise Analysis
 * Distribution of Age
-<img src="Images/AgeDistribution.PNG" height="200">
+<img src="Images/AgeDistribution.png" height="400">
+
+* Men Vs Women Participation Over the Years
+<img src="Images/Men vs Women Participation.png" height="400">
