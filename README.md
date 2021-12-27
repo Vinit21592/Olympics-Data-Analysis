@@ -30,3 +30,7 @@ on the summer olympics data which was held during these years. All the null and 
 
 * No. of Events over time(Every Sport)
 <img src="Images/No. of events.png" height="600">
+
+### Athlete-wise Analysis
+* Distribution of Age
+<img src="Images/AgeDistribution.PNG" height="200">
