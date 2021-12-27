@@ -23,4 +23,7 @@ on the summer olympics data which was held during these years. All the null and 
 ## Data Visualization
 ### Overall Analysis
 * Top Statistics
-<img src="Images/Top Statistics.png" height="100">
+<img src="Images/Top Statistics.PNG" height="200">
+
+* Participating Nations Over the Years
+<img src="Images/Cities.png" height="300">
