@@ -47,3 +47,8 @@ By looking at this 'Men Vs Women Participation' graph it is clearly visible that
 To get the detailed analysis click the webapp link given below.
 
 Link : https://olympics-summer-data-analysis.herokuapp.com/
+
+## Technologies Used:
+* PyCharm is used for IDE.
+* For creating webapp Streamlit framework is used.
+* Heroku is used for Model Deployment.
