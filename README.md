@@ -28,17 +28,22 @@ This statistics shows no. of editions held, total no. of nations hosted the olym
 
 * Participating Nations Over the Years
 <img src="Images/Cities.png" height="400">
-This graph helps to visualize the number nations participating over the years.
+This graph helps to visualize the number of nations participating over the years.
 
 * No. of Events over time(Every Sport)
 <img src="Images/No. of events.png" height="600">
+Basically this heatmap shows the user a clear picture of number of events conducted for each sport over the years.
 
 ### Athlete-wise Analysis
 * Distribution of Age
 <img src="Images/AgeDistribution.png" height="400">
+Here we can see the age distribution of athletes winning the medals. The age range between 20 to 30 shows the highest probability of winning a medal.
 
 * Men Vs Women Participation Over the Years
 <img src="Images/Men vs Women Participation.png" height="400">
+By looking at this 'Men Vs Women Participation' graph it is clearly visible that as the years pass the participation of women goes on increasing and almost equals with that of men.
 
 ## Webapp Link:
+To get the detailed analysis click the webapp link given below.
 
+Link : https://olympics-summer-data-analysis.herokuapp.com/
